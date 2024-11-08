@@ -1,4 +1,4 @@
-# Rosalind-problem
+# Rosalind-problems
 
 This repository contains solutions of first 5 problems from the Rosalind bioinformatics platform. Each solution is implemented as a Python script and requires a corresponding input file located in the same directory as the script. Before running any of the scripts, ensure that the input file is in the same repository.
 
